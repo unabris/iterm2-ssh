@@ -21,3 +21,5 @@ cp iterm2-ssh/iTerm2-ssh.zsh ~/.oh-my-zsh/custom/iTerm2-ssh.zsh
 Create a new profile named SSH and set up new colors:
 
 ![iterm-profile](https://cloud.githubusercontent.com/assets/14099193/15497814/d2043cce-219c-11e6-8767-e23adee8a4d7.png)
+
+Optionally you can checkout my [Customize bash prompt](https://gist.github.com/unabris/956bb424549b5d802e8bd11c997f7497) Gist to know how to change your servers prompt. This way you will be able to identify in wich server you are.
