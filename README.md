@@ -8,16 +8,16 @@ This project is based on [erangaeb](https://github.com/erangaeb)'s [iTrem2-ssh.z
 
 ## Getting started
 
-Clone repository
+Clone repository:
 ```bash
 git clone https://github.com/unabris/iterm2-ssh.git
 ```
 
-Copy file
+Copy `iTerm2-ssh.zsh` to `~/.oh-my-zsh/custom/`:
 ```bash
 cp iterm2-ssh/iTerm2-ssh.zsh ~/.oh-my-zsh/custom/iTerm2-ssh.zsh
 ```
 
-Create a new profile named SSH and set up new colors
+Create a new profile named SSH and set up new colors:
 
 ![iterm-profile](https://cloud.githubusercontent.com/assets/14099193/15497814/d2043cce-219c-11e6-8767-e23adee8a4d7.png)
