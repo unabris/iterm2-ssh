@@ -15,5 +15,5 @@ git clone https://github.com/unabris/iterm2-ssh.git
 
 Copy file
 ```bash
-cp iterm2-ssh/iTrem2-ssh.zsh ~/.oh-my-zsh/custom/iTrem2-ssh.zsh
+cp iterm2-ssh/iTerm2-ssh.zsh ~/.oh-my-zsh/custom/iTerm2-ssh.zsh
 ```
